@@ -8,22 +8,18 @@ developed.
 file an issue or talk to us.**
 
 ## TechLancaster
-TechLancaster started as a simple local meetup for tech people to come together and geek out. We strive to be open, welcoming, and supportive to everyone in the community, regardless of their interest or background.
+TechLancaster is a local meetup for tech people to come together and geek out. We strive to be open, welcoming, and supportive to everyone in the community, regardless of their interest or background.
 
-The past year has seen amazing growth in Lancaster's tech scene, and we believe this is only the beginning. As members of the tech community, we want to support this growth and ensure the community remains a healthy, open, and welcoming place for all its current and future members.
+As members of the tech community, we want to ensure the community remains a healthy, open, and welcoming place for all its current and future members.
 
-To that end, we are evolving **TechLancaster** to be more than a meetup.  We hope it can become a unifying banner for Lancaster's tech scene to rally around - where we can come together to continue to share ideas and provide services to Lancaster's tech community at large while remaining neutral - driven solely by and for the community.
-
-The next section outlines some guiding principals we hope to adopt for **TechLancaster**.  There has been some discussion of a **TechLancaster** seal of approval or set of guidelines for meetups - that is not the goal of this document right now.
-
-We ask that the community look out for inappropriate uses of the TechLancaster brand including use of our name, logos, project names and other trademark issues.
+The next section outlines some guiding principals we hope to adopt for **TechLancaster**.
 
 ## Core Values
 * **Open** - Everything TechLancaster does is transparent.
 * **Local** - TechLancaster's primary goal is the support and growth of the tech scene in Lancaster, PA.
 
 ## Core Purpose
-TechLancaster's core purpose is to support the technology community in Lancaster, PA.
+TechLancaster's core purpose is to support people in the technology community in Lancaster, PA.
 
 ## Code of Ethics / Conduct
 The Lancaster tech community expects that activities, events, and digital forums:
@@ -46,4 +42,4 @@ The Lancaster tech community reserves the right to ask anyone in violation of th
 * Driven by community not commerce
 * Governed by rough consensus
 
-TechLancaster does not endorse any business, product, service, etc.  This allows us to remain neutral and focus on growing  the tech community in Lancaster.
+TechLancaster does not endorse any business, product, service, etc.  This allows us to remain neutral and focus on growing the tech community in Lancaster. *Note: the meetup is often sponsored by businesses that donate use of their space, equipment, etc. We acknowledge that it's impossible to remain entirely neutral in this situation, but rely on the community to call us out on anything that crosses the line.*
